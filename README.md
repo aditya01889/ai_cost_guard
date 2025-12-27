@@ -1,10 +1,3 @@
-Perfect timing. This README should **explain value fast**, **prove rigor**, and **make the demo effortless** — without sounding like marketing fluff.
-
-Below is a **production-grade README** you can paste directly into `README.md`.
-It’s written for **CTOs / senior engineers / founders**, not beginners.
-
----
-
 # AI Cost Guard
 
 **Deterministic AI Cost Governance for Production Systems**
