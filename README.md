@@ -14,6 +14,10 @@ No heuristics.
 No black boxes.
 No surprise bills.
 
+## Demo
+
+Watch the demo video: [AI Cost Guard Demo](https://www.loom.com/share/f6caedbd6e694f29a6f8b61e1cfd61ca)
+
 ---
 
 ## Why AI Cost Guard Exists
